@@ -40,6 +40,7 @@ Ordered List
 4. Fourth
 5. Fifth
 6. Sixth
+7. Seventh
 
 Unordered List
 
